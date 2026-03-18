@@ -1,0 +1,11 @@
+streamlit
+pandas
+numpy
+yfinance
+ta
+feedparser
+joblib
+tensorflow
+transformers
+torch
+matplotlib
